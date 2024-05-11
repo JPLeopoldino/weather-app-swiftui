@@ -46,6 +46,8 @@
 		CF0FFCE72BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Weather_TutorialUITests.swift; sourceTree = "<group>"; };
 		CF0FFCE92BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Weather_TutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		CF0FFCF62BEFC11500224F7B /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
+		CF0FFCF82BF0145400224F7B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CF0FFCFA2BF0180900224F7B /* weather_app_preview.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = weather_app_preview.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,8 @@
 		CF0FFCC02BEFAD5000224F7B = {
 			isa = PBXGroup;
 			children = (
+				CF0FFCFA2BF0180900224F7B /* weather_app_preview.gif */,
+				CF0FFCF82BF0145400224F7B /* README.md */,
 				CF0FFCCB2BEFAD5000224F7B /* SwiftUI-Weather-Tutorial */,
 				CF0FFCDC2BEFAD5100224F7B /* SwiftUI-Weather-TutorialTests */,
 				CF0FFCE62BEFAD5100224F7B /* SwiftUI-Weather-TutorialUITests */,
