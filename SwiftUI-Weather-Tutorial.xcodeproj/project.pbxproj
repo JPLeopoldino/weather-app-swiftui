@@ -14,6 +14,7 @@
 		CF0FFCDE2BEFAD5100224F7B /* SwiftUI_Weather_TutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0FFCDD2BEFAD5100224F7B /* SwiftUI_Weather_TutorialTests.swift */; };
 		CF0FFCE82BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0FFCE72BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITests.swift */; };
 		CF0FFCEA2BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0FFCE92BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITestsLaunchTests.swift */; };
+		CF0FFCF72BEFC11500224F7B /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0FFCF62BEFC11500224F7B /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		CF0FFCE32BEFAD5100224F7B /* SwiftUI-Weather-TutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-Weather-TutorialUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF0FFCE72BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Weather_TutorialUITests.swift; sourceTree = "<group>"; };
 		CF0FFCE92BEFAD5100224F7B /* SwiftUI_Weather_TutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Weather_TutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CF0FFCF62BEFC11500224F7B /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				CF0FFCCE2BEFAD5000224F7B /* ContentView.swift */,
 				CF0FFCD02BEFAD5100224F7B /* Assets.xcassets */,
 				CF0FFCD22BEFAD5100224F7B /* Preview Content */,
+				CF0FFCF62BEFC11500224F7B /* WeatherButton.swift */,
 			);
 			path = "SwiftUI-Weather-Tutorial";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				CF0FFCCF2BEFAD5000224F7B /* ContentView.swift in Sources */,
 				CF0FFCCD2BEFAD5000224F7B /* SwiftUI_Weather_TutorialApp.swift in Sources */,
+				CF0FFCF72BEFC11500224F7B /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
